@@ -3,7 +3,7 @@
 a for loop for async functions.
 
 ```js
-var fora = require('fora');
+var fora = require('for-loop-async');
 
 fora(function () {
   this.i = 0;

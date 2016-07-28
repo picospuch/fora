@@ -1,5 +1,5 @@
 {
-  "name": "fora",
+  "name": "for-loop-async",
   "version": "0.0.1",
   "description": "a for loop for async functions",
   "main": "fora.js",
