@@ -34,7 +34,7 @@ for (
 
 ## Installation
 
-npm install async-for
+npm install for-loop-async
 
 ## License
 
