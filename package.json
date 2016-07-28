@@ -1,0 +1,24 @@
+{
+  "name": "fora",
+  "version": "0.0.1",
+  "description": "a for loop for async functions",
+  "main": "fora.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/picospuch/fora.git"
+  },
+  "keywords": [
+    "for",
+    "async",
+    "loop"
+  ],
+  "author": "picospuch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/picospuch/fora/issues"
+  },
+  "homepage": "https://github.com/picospuch/fora#readme"
+}
